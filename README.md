@@ -1,5 +1,7 @@
 # Tinder
-This project is the clone app of Tinder .Languages used Python(GUI TkInter) and MySQL
+This project is the clone app of Tinder .
+
+Languages used Python(GUI TkInter) and MySQL
 
 
 Steps Involved in the setup to run the file:
