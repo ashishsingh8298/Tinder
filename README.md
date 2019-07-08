@@ -10,7 +10,7 @@ Steps Involved in the setup to run the file:
 3.Mysql-Python connector is must so that communication between Python and MySQL(PHPmyAdmin) can be done.
 4.Put the tinder.ico File in the current Working directory of the project.
 5.Make sure if you are using PyCharm Interpretor is defined for the Project otherwise it will throw a error.
-6.Go throw the codes in the .py file to know the further details about the project.
+6.Go through the codes in the .py file to know the further details about the project.
   1.How it works
   2.Whats technologies it uses
   3.How to ensure the connection between python and mysql
